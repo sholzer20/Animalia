@@ -1,11 +1,12 @@
-/*********************
+/***********************
 
-	*Name: Sam Holzer
+*Name - Sam Holzer
 
-	*Project: Animalia EC lab
+*Project - Animalia/Inheritance
 
-	*Date Last Modified: 2/24/2017
-*********************/
+*Date Last Modified - 2/24/2017
+
+*************************/
 
 #include "Animalia.h"
 #include "Human.h"

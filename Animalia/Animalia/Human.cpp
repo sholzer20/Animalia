@@ -1,3 +1,13 @@
+/***********************
+
+*Name - Sam Holzer
+
+*Project - Animalia/Inheritance
+
+*Date Last Modified - 2/24/2017
+
+*************************/
+
 #include "Human.h"
 
 // Humans must think before speaking. If they have not thought, nothing happens

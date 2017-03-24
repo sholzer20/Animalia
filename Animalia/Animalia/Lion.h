@@ -1,3 +1,13 @@
+/***********************
+
+*Name - Sam Holzer
+
+*Project - Animalia/Inheritance
+
+*Date Last Modified - 2/24/2017
+
+*************************/
+
 #ifndef LION_H_
 #define LION_H_
 
